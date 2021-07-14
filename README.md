@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vaskkey
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning some frameworks, but mostly i'm trying to dive deeper into JS itself
-- 💞️ I’m looking to collaborate on smaller open source projects
+- 🌱 I’m currently Ember.js
 - 📫 How to reach me: awraam.waskowski@gmail.com
 
 <!---
