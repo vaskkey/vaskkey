@@ -2,6 +2,7 @@
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Ember.js
 - 📫 How to reach me: awraam.waskowski@gmail.com
+- Discord: `b1g_milk#6989`
 
 <!---
 vaskkey/vaskkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
